@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KeFMC – Kenya eFootball Mobile Championship",
+  "description": "A professional national esports tournament platform for Kenya's eFootball Mobile community, featuring ward-to-national progression, player dashboards, and sponsorship management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
